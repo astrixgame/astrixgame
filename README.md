@@ -1,7 +1,7 @@
 # Hi, I'm Astrix!👋
 
 ## 🚀 About Me
-I'm student but outside I'm developer at Adatage and I'm doing projects which I need on daily basis or for tutorials on YouTube and much more<br>
+I'm developer at Adatage and I'm doing projects which I need on daily basis or for tutorials on YouTube and much more<br>
 👩‍💻 I'm currently working on custom web framework
 
 🧠 I'm currently learning Go & Rust
