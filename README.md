@@ -1,3 +1,9 @@
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 <h3 align="center">A passionate frontend developer from Earth</h3>
 
 <h3 align="left">Where you can find me</h3>
