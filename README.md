@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm developer at Adatage and I'm doing projects which I need on daily basis or for tutorials on YouTube because I ❤️ Open Source<br><br>
-👩‍💻 I'm currently working on custom web framework
+👩‍💻 I'm currently working on super secret project 🙃
 
 🧠 I'm currently learning Go & Rust
 
