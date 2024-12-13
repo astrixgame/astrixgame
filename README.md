@@ -2,10 +2,8 @@
 
 ## 🚀 About Me
 I'm developer at Adatage and I'm doing projects which I need on daily basis or for tutorials on YouTube because I ❤️ Open Source<br><br>
+
 👩‍💻 I'm currently working on super secret project 🙃
-
-📖 I'm currently learning Go & Rust languages.
-
 ⚡️ Code fact: Everybody should learn to program a computer because it teaches you 🧠 **how to think**.
 
 ## 🛠 Skills & favs
