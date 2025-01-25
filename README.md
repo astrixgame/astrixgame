@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 I'm developer at Adatage and I'm doing projects which I need on daily basis or for tutorials on YouTube because I ❤️ Open Source<br><br>
-👩‍💻 I'm currently working on super secret project 🙃<br>
-⚡️ Fact: Success comes to those who believe in success.<br><br>
+👩‍💻 Status: I'm currently working on super secret project 🙃<br>
+⚡️ Fact: Learning never exhausts the mind.<br><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/AstrixGame.png?update=1" alt="TryHackMe Score">
 
 ## 🛠 Skills & favs
