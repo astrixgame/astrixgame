@@ -7,6 +7,7 @@ I'm developer at Adatage and I'm doing projects which I need on daily basis or f
 <img src="https://tryhackme-badges.s3.amazonaws.com/AstrixGame.png?update=1" alt="TryHackMe Score">
 
 ## 🛠 Skills & favs
+<a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177&width=40" alt="mikrotik" width="40" height="40"></a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/></a>
