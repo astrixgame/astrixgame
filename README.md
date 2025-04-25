@@ -5,6 +5,7 @@ I'm developer at Adatage and I'm doing projects which I need on daily basis or f
 👩‍💻 Status: I'm currently working on super secret project 🙃<br>
 ⚡️ Fact: Learning never exhausts the mind.<br><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/AstrixGame.png?update=1" alt="TryHackMe Score">
+<br>
 More about me: https://gravatar.com/astrixgame
 ## 🛠 Skills & favs
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
