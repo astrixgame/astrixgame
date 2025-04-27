@@ -73,6 +73,7 @@ More about me: https://gravatar.com/astrixgame
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://firebase.google.com/favicon.ico" alt="firebase" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+<a href="https://jinja.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://jinja.palletsprojects.com/en/stable/_static/jinja-logo-sidebar.png" alt="jinja2" width="40" height="40"/></a>
 <br><br>
 
 <br>
