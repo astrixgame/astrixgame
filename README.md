@@ -2,12 +2,10 @@
 GitLab: <a href="https://gitlab.com/astrixgame/">gitlab.com/astrixgame</a>
 ## 🚀 About Me
 I'm developer at Adatage and I'm doing projects which I need on daily basis or for tutorials on YouTube because I ❤️ Open Source<br><br>
-👩‍💻 Status: I'm currently working on super secret project 🙃<br>
-⚡️ Fact: Learning never exhausts the mind as long as you wanna learn.<br><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/AstrixGame.png?update=1" alt="TryHackMe Score">
 <br>
 More about me: https://gravatar.com/astrixgame
-## 🛠 Skills & favs
+## 🛠 Favs
 ### Languages
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
