@@ -5,7 +5,9 @@ DevOps Engineer and Infrastructure Manager focused on reliable systems, practica
 I work on infrastructure, platforms, and day-to-day engineering problems that need to be solved cleanly and kept running. Outside of production work, I build side projects, test ideas, and turn useful experiments into tutorials.
 
 - GitLab: <a href="https://gitlab.com/astrixgame/">gitlab.com/astrixgame</a>
-- More about me: https://gravatar.com/astrixgame
+- Monkeytype: <a href="https://monkeytype.com/profile/AstrixGame">monkeytype.com/profile/AstrixGame</a>
+- Huggingface: <a href="https://huggingface.co/AstrixGame">huggingface.co/AstrixGame</a>
+- More about me: <a href="https://gravatar.com/astrixgame">gravatar.com/astrixgame</a>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/AstrixGame.png?update=1" alt="TryHackMe Score">
 
