@@ -27,6 +27,10 @@ My background sits between DevOps, infrastructure management, systems administra
 These are the tools and platforms I actively like working with and talking about.
 
 ### Languages
+
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="34" height="34" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="34" height="34" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="34" height="34" />
